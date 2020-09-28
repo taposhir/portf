@@ -1,0 +1,89 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/*.banner-container{
+    background-image: url("https://eskipaper.com/images/night-photography-background-1.jpg");
+    background-size: cover;
+}
+
+.banner-column{
+    background-color: brown;
+    text-align: center;
+   
+}*/
+
+.navbar-container{
+    top:0;
+    background-color: rgb(97, 44, 54);
+    position: sticky;
+    z-index: 1;
+    
+}
+.about-container{
+    background-image: url("https://images.unsplash.com/photo-1550684376-efcbd6e3f031?ixlib=rb-1.2.1&w=1000&q=80");
+ }
+
+ .education-container{
+    background-color: #C8726E;
+}
+
+.bg-redtype{
+    background-color: #541743;
+}
+
+.bg-redtype:hover{
+     color: black!important;
+}
+
+/*.redtype-color{
+    color: #FB857F;*/
+
+
+.circle-edu{
+    background-color: #5c0550;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+     
+}
+.card-body{
+    background-color: black;
+}
+
+.project-container{
+    background-color:#164843;
+}
+
+.gallary-container{
+    background-color:#474D5D;
+}
+
+.form-container{
+    background-color: #29375c;
+}
+
+.inner-form{
+    background-color: #585F73;
+}
+
+.footer{
+    background-color: black;
+}
+
+.circle{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #224949;
+  
+  }
+  .circle:hover{
+       
+      background-color: grey;
+    
+    
+    }
